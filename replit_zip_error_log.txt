@@ -1,0 +1,12 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/python-3.10","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/00bba1ffd2cb-runtime","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/62469d2b483c-runtime","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/6454bcd8b0a5-runtime","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/688e5b0aa156-runtime","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/6e5ee48efad0-runtime","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/abd17a152e50-runtime","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/b5c93c5e7383-runtime","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/cd0e435855e1-runtime","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/e25cea84e510-runtime","time":"2024-09-26T15:13:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .config/pulse/e8d47361a1bb-runtime","time":"2024-09-26T15:13:24Z"}
